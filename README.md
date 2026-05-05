@@ -62,7 +62,7 @@ Aucune configuration Python manuelle nécessaire.
 ## Prérequis serveur
 
 - PHP avec extension IMAP activée
-- Python3 disponible sur le serveur (chemin standard ou accessible via `which python3`)
+- Python3.10 minimum disponible sur le serveur (chemin standard ou accessible via `which python3`)
 - Accès sortant Internet (pour installer les dépendances Python)
 
 ---
