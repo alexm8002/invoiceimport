@@ -1,0 +1,3 @@
+pdfplumber
+pillow
+pdfminer.six
